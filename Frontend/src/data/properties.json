@@ -1,0 +1,41 @@
+[
+  {
+    "Id" : 1,
+    "SellRent":1,
+    "Name" : "Cordes House",
+    "Type" : "House",
+    "Price" : 12000,
+    "Image" : "Image1"
+  },
+  {
+    "Id" : 2,
+    "SellRent": 2,
+    "Name" : "white House",
+    "Type" : "House",
+    "Price" : 12800,
+    "Image": "Image2"
+  },
+  {
+    "Id" : 3,
+    "SellRent" : 2,
+    "Name" : "Perl House",
+    "Type" : "House",
+    "Price" : 18000,
+    "Image": "Image3"
+  },
+  {
+    "Id" : 4,
+    "SellRent": 1,
+    "Name" : "Maccro House",
+    "Type" : "House",
+    "Price" : 82000,
+    "Image":"Image4"
+  },
+  {
+    "Id" : 5,
+    "SellRent": 1,
+    "Name" : "Cdes House",
+    "Type" : "House",
+    "Price" : 12700
+  }
+]
